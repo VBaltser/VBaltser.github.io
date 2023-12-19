@@ -1,6 +1,6 @@
 export type Label = {
     barcode: string;
     description: string;
-    size: number | null;
+    size: string | null;
     footer: string;
 };
